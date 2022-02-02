@@ -9,3 +9,4 @@ module3_lab.ipynb: Google Colab notebook following the course instructions
 
 Module 04: Somatic Genomic Alteration
 module4_lab.ipynb: Google Colab notebook following the course instructions
+module4_visualization.Rmd: R markdown file for data visualization
